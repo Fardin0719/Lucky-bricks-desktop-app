@@ -1,6 +1,6 @@
 # Lucky-bricks-desktop-app
 
-#Title: Business Requirements Document for Lucky Bricks ltd.
+# Title: Business Requirements Document for Lucky Bricks ltd.
 
 Purpose: This BRD outlines the business requirements for the Enterprise Management System, detailing the functional and non-functional requirements necessary to meet the project's objectives.
 
